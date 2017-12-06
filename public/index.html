@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+	<script src="/javascripts/carouselfigure.js"></script>
+	<script src="/javascripts/main.js"></script>
+</head>
+<body>
+	<div class="head">
+		<div class="wrap clearfix">
+			<div class="logo"><h1>logo</h1></div>
+			<h1 class="name">重庆市XXX污水处理厂</h1>
+			<div class="nav">
+			<div class="login">
+			<script type="text/javascript">
+			var username = getCookie("username");
+			if(username){
+				document.write('欢迎'+username+'！<a href="/main">管理</a>');
+			}else{
+				document.write('<form action="/users/login" method="POST">'+
+					'<input type="text" id="username" name="username" placeholder="用户名">'+
+					'<input type="password" id="psw" name="psw" placeholder="密码">'+
+					'<input type="submit" id="submit" value="登录">'+
+				'</form>');
+			}
+			</script>
+				
+			</div>
+				<ul class="clearfix">
+					<li class="nav_channel">
+						<div class="channel_name"><a href="">首页</a></div>
+						<ul>
+							<li class="nav_itm"><a href="">link</a></li>
+							<li class="nav_itm"><a href="">link</a></li>
+							<li class="nav_itm"><a href="">link</a></li>
+							<li class="nav_itm"><a href="">link</a></li>
+						</ul>
+					</li>
+					<li class="nav_channel">
+						<div class="channel_name"><a href="">新闻</a></div>
+						<ul>
+							<li class="nav_itm"><a href="">link</a></li>
+							<li class="nav_itm"><a href="">link</a></li>
+							<li class="nav_itm"><a href="">link</a></li>
+							<li class="nav_itm"><a href="">link</a></li>
+						</ul>
+					</li>
+					<li class="nav_channel">
+						<div class="channel_name"><a href="">法规</a></div>
+						<ul>
+							<li class="nav_itm"><a href="">link</a></li>
+							<li class="nav_itm"><a href="">link</a></li>
+							<li class="nav_itm"><a href="">link</a></li>
+							<li class="nav_itm"><a href="">link</a></li>
+						</ul>
+					</li>
+					<li class="nav_channel">
+						<div class="channel_name"><a href="">文件</a></div>
+						<ul>
+							<li class="nav_itm"><a href="">link</a></li>
+							<li class="nav_itm"><a href="">link</a></li>
+							<li class="nav_itm"><a href="">link</a></li>
+							<li class="nav_itm"><a href="">link</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="main">
+		<div class="wrap">
+			<div id="carousel-figure-box1" class="carousel-figure-box1">
+				<div class="carousel-figure">
+					<ul class="pics">
+						<li><a href="javascript:void(0)">图片1</a></li>
+						<li><a href="javascript:void(0)">图片2</a></li>
+						<li><a href="javascript:void(0)">图片3</a></li>
+						<li><a href="javascript:void(0)">图片4</a></li>
+						<li><a href="javascript:void(0)">图片5</a></li>
+					</ul>
+				</div>
+				<ul class="btns">
+					<li>1</li>
+					<li>2</li>
+					<li>3</li>
+					<li>4</li>
+					<li>5</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="foot">
+		<div class="wrap"></div>
+	</div>
+</body>
+</html>

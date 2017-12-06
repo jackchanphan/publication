@@ -1,0 +1,593 @@
+[26/Nov/2017:08:47:50 +0000] - [fn logger] - [init paths : /users/]
+[26/Nov/2017:08:47:49 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[26/Nov/2017:08:47:50 +0000] - [fn logger] - [init paths : /users/login]
+[26/Nov/2017:08:47:50 +0000] - [fn logger] - [init paths : /users/logout]
+[26/Nov/2017:08:47:50 +0000] - [fn logger] - [init paths : /users/login]
+[26/Nov/2017:08:47:50 +0000] - [fn logger] - [init paths : /news/mknews]
+[26/Nov/2017:08:47:50 +0000] - [fn logger] - [init paths : /news/addnews]
+[26/Nov/2017:08:47:50 +0000] - [fn logger] - [init paths : /gainInfo]
+[26/Nov/2017:08:47:50 +0000] - [fn logger] - [init paths : /]
+[26/Nov/2017:08:47:50 +0000] - [fn logger] - [init paths : /main]
+[26/Nov/2017:08:47:50 +0000] - [fn logger] - [init paths : /reloadAuth]
+[26/Nov/2017:08:47:49 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[26/Nov/2017:08:48:05 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[26/Nov/2017:08:48:05 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::1 - - [26/Nov/2017:08:48:08 +0000] "GET /news/mknews HTTP/1.1" 200 792 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:08:48:08 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171026]
+[26/Nov/2017:08:48:08 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171026]
+[26/Nov/2017:08:48:08 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:08:48:08 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+	<title>新闻测试页面</title>
+	</head>
+	<body>
+	<div class="newsHead"><h1>重庆市XXX污水处理厂</h1></div>
+	<div class="newsContainer">
+		<h1 class="newstitle">新闻测试页面</h1>
+		<div class="info clearfix">
+			<small class="author">jack</small>
+			<small class="date">2017-11-23 00:54:41</small>
+		</div>
+		<p class="content"> 以下信息根据您的兴趣推荐  
+穆加贝辞职是否会对中津关系造成影响?外交部回应
+网易新闻 11-22 16:42 热点
+水利部部署进一步规范小型病险水库除险加固项目管理工作
+金融界 11-22 19:55
+ 
+津巴布韦执政党推选前副总统姆南加古瓦为总统
+</p>
+	</div>
+	<div class="newsFooter">
+		<div class="wrap">
+		<ul class="clearfix">
+				<li>联系电话：023-88888888</li>
+				<li>邮箱：xx@xx.xx</li>
+				<li>地址:重庆市xx区</li>
+				<li>招聘</li>
+				<li>关于我们</li>
+			</ul>
+		</div>
+	</div>
+	</body>
+	</html>
+]
+[26/Nov/2017:08:48:08 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:08:48:08 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+	<title>test2</title>
+	</head>
+	<body>
+	<div class="newsHead"><h1>重庆市XXX污水处理厂</h1></div>
+	<div class="newsContainer">
+		<h1 class="newstitle">test2</h1>
+		<div class="info clearfix">
+			<small class="author">jackchan</small>
+			<small class="date">2017-11-23 00:54:41</small>
+		</div>
+		<p class="content">content</p>
+	</div>
+	<div class="newsFooter">
+		<div class="wrap">
+		<ul class="clearfix">
+				<li>联系电话：023-88888888</li>
+				<li>邮箱：xx@xx.xx</li>
+				<li>地址:重庆市xx区</li>
+				<li>招聘</li>
+				<li>关于我们</li>
+			</ul>
+		</div>
+	</div>
+	</body>
+	</html>
+]
+::1 - - [26/Nov/2017:08:48:08 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:08:48:09 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:08:48:09 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:08:49:13 +0000] - [fn logger] - [init paths : /users/]
+[26/Nov/2017:08:49:13 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[26/Nov/2017:08:49:13 +0000] - [fn logger] - [init paths : /users/login]
+[26/Nov/2017:08:49:13 +0000] - [fn logger] - [init paths : /users/logout]
+[26/Nov/2017:08:49:13 +0000] - [fn logger] - [init paths : /users/login]
+[26/Nov/2017:08:49:13 +0000] - [fn logger] - [init paths : /news/mknews]
+[26/Nov/2017:08:49:13 +0000] - [fn logger] - [init paths : /news/addnews]
+[26/Nov/2017:08:49:13 +0000] - [fn logger] - [init paths : /gainInfo]
+[26/Nov/2017:08:49:13 +0000] - [fn logger] - [init paths : /]
+[26/Nov/2017:08:49:13 +0000] - [fn logger] - [init paths : /main]
+[26/Nov/2017:08:49:13 +0000] - [fn logger] - [init paths : /reloadAuth]
+[26/Nov/2017:08:49:13 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[26/Nov/2017:08:49:29 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[26/Nov/2017:08:49:29 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::1 - - [26/Nov/2017:08:49:30 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:08:49:30 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171023]
+[26/Nov/2017:08:49:30 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171023]
+[26/Nov/2017:08:49:30 +0000] - [fn logger] - [Error: ENOENT: no such file or directory, mkdir 'C:\Users\Administrator\publication\public\html\news\20171023']
+[26/Nov/2017:08:49:30 +0000] - [fn logger] - [Error: ENOENT: no such file or directory, mkdir 'C:\Users\Administrator\publication\public\html\flfg\20171023']
+::1 - - [26/Nov/2017:08:49:30 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:08:49:30 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:08:49:30 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:08:51:11 +0000] - [fn logger] - [init paths : /users/]
+[26/Nov/2017:08:51:11 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[26/Nov/2017:08:51:11 +0000] - [fn logger] - [init paths : /users/login]
+[26/Nov/2017:08:51:11 +0000] - [fn logger] - [init paths : /users/logout]
+[26/Nov/2017:08:51:11 +0000] - [fn logger] - [init paths : /users/login]
+[26/Nov/2017:08:51:11 +0000] - [fn logger] - [init paths : /news/mknews]
+[26/Nov/2017:08:51:11 +0000] - [fn logger] - [init paths : /news/addnews]
+[26/Nov/2017:08:51:11 +0000] - [fn logger] - [init paths : /gainInfo]
+[26/Nov/2017:08:51:11 +0000] - [fn logger] - [init paths : /]
+[26/Nov/2017:08:51:11 +0000] - [fn logger] - [init paths : /main]
+[26/Nov/2017:08:51:11 +0000] - [fn logger] - [init paths : /reloadAuth]
+[26/Nov/2017:08:51:11 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[26/Nov/2017:08:51:17 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[26/Nov/2017:08:51:17 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::1 - - [26/Nov/2017:08:51:17 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:08:51:17 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171023]
+[26/Nov/2017:08:51:17 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171023]
+[26/Nov/2017:08:51:17 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:08:51:17 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+	<title>新闻测试页面</title>
+	</head>
+	<body>
+	<div class="newsHead"><h1>重庆市XXX污水处理厂</h1></div>
+	<div class="newsContainer">
+		<h1 class="newstitle">新闻测试页面</h1>
+		<div class="info clearfix">
+			<small class="author">jack</small>
+			<small class="date">2017-11-23 00:54:41</small>
+		</div>
+		<p class="content"> 以下信息根据您的兴趣推荐  
+穆加贝辞职是否会对中津关系造成影响?外交部回应
+网易新闻 11-22 16:42 热点
+水利部部署进一步规范小型病险水库除险加固项目管理工作
+金融界 11-22 19:55
+ 
+津巴布韦执政党推选前副总统姆南加古瓦为总统
+</p>
+	</div>
+	<div class="newsFooter">
+		<div class="wrap">
+		<ul class="clearfix">
+				<li>联系电话：023-88888888</li>
+				<li>邮箱：xx@xx.xx</li>
+				<li>地址:重庆市xx区</li>
+				<li>招聘</li>
+				<li>关于我们</li>
+			</ul>
+		</div>
+	</div>
+	</body>
+	</html>
+]
+[26/Nov/2017:08:51:17 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:08:51:17 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+	<title>test2</title>
+	</head>
+	<body>
+	<div class="newsHead"><h1>重庆市XXX污水处理厂</h1></div>
+	<div class="newsContainer">
+		<h1 class="newstitle">test2</h1>
+		<div class="info clearfix">
+			<small class="author">jackchan</small>
+			<small class="date">2017-11-23 00:54:41</small>
+		</div>
+		<p class="content">content</p>
+	</div>
+	<div class="newsFooter">
+		<div class="wrap">
+		<ul class="clearfix">
+				<li>联系电话：023-88888888</li>
+				<li>邮箱：xx@xx.xx</li>
+				<li>地址:重庆市xx区</li>
+				<li>招聘</li>
+				<li>关于我们</li>
+			</ul>
+		</div>
+	</div>
+	</body>
+	</html>
+]
+::1 - - [26/Nov/2017:08:51:17 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:08:51:17 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:08:51:17 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:08:52:41 +0000] - [fn logger] - [init paths : /users/]
+[26/Nov/2017:08:52:40 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[26/Nov/2017:08:52:41 +0000] - [fn logger] - [init paths : /users/login]
+[26/Nov/2017:08:52:41 +0000] - [fn logger] - [init paths : /users/logout]
+[26/Nov/2017:08:52:41 +0000] - [fn logger] - [init paths : /users/login]
+[26/Nov/2017:08:52:41 +0000] - [fn logger] - [init paths : /news/mknews]
+[26/Nov/2017:08:52:41 +0000] - [fn logger] - [init paths : /news/addnews]
+[26/Nov/2017:08:52:41 +0000] - [fn logger] - [init paths : /gainInfo]
+[26/Nov/2017:08:52:41 +0000] - [fn logger] - [init paths : /]
+[26/Nov/2017:08:52:41 +0000] - [fn logger] - [init paths : /main]
+[26/Nov/2017:08:52:41 +0000] - [fn logger] - [init paths : /reloadAuth]
+[26/Nov/2017:08:52:41 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[26/Nov/2017:08:52:43 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[26/Nov/2017:08:52:43 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::1 - - [26/Nov/2017:08:52:43 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:08:52:43 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171123]
+[26/Nov/2017:08:52:43 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171123]
+[26/Nov/2017:08:52:43 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:08:52:43 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+	<title>test2</title>
+	</head>
+	<body>
+	<div class="newsHead"><h1>重庆市XXX污水处理厂</h1></div>
+	<div class="newsContainer">
+		<h1 class="newstitle">test2</h1>
+		<div class="info clearfix">
+			<small class="author">jackchan</small>
+			<small class="date">2017-11-23 00:54:41</small>
+		</div>
+		<p class="content">content</p>
+	</div>
+	<div class="newsFooter">
+		<div class="wrap">
+		<ul class="clearfix">
+				<li>联系电话：023-88888888</li>
+				<li>邮箱：xx@xx.xx</li>
+				<li>地址:重庆市xx区</li>
+				<li>招聘</li>
+				<li>关于我们</li>
+			</ul>
+		</div>
+	</div>
+	</body>
+	</html>
+]
+[26/Nov/2017:08:52:43 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:08:52:43 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+	<title>新闻测试页面</title>
+	</head>
+	<body>
+	<div class="newsHead"><h1>重庆市XXX污水处理厂</h1></div>
+	<div class="newsContainer">
+		<h1 class="newstitle">新闻测试页面</h1>
+		<div class="info clearfix">
+			<small class="author">jack</small>
+			<small class="date">2017-11-23 00:54:41</small>
+		</div>
+		<p class="content"> 以下信息根据您的兴趣推荐  
+穆加贝辞职是否会对中津关系造成影响?外交部回应
+网易新闻 11-22 16:42 热点
+水利部部署进一步规范小型病险水库除险加固项目管理工作
+金融界 11-22 19:55
+ 
+津巴布韦执政党推选前副总统姆南加古瓦为总统
+</p>
+	</div>
+	<div class="newsFooter">
+		<div class="wrap">
+		<ul class="clearfix">
+				<li>联系电话：023-88888888</li>
+				<li>邮箱：xx@xx.xx</li>
+				<li>地址:重庆市xx区</li>
+				<li>招聘</li>
+				<li>关于我们</li>
+			</ul>
+		</div>
+	</div>
+	</body>
+	</html>
+]
+::1 - - [26/Nov/2017:08:52:43 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:08:52:43 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:08:52:44 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:28:16 +0000] - [fn logger] - [init paths : /users/]
+[26/Nov/2017:14:28:16 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[26/Nov/2017:14:28:16 +0000] - [fn logger] - [init paths : /users/login]
+[26/Nov/2017:14:28:16 +0000] - [fn logger] - [init paths : /users/logout]
+[26/Nov/2017:14:28:16 +0000] - [fn logger] - [init paths : /users/login]
+[26/Nov/2017:14:28:16 +0000] - [fn logger] - [init paths : /news/listAllNews]
+[26/Nov/2017:14:28:16 +0000] - [fn logger] - [init paths : /news/addNews]
+[26/Nov/2017:14:28:16 +0000] - [fn logger] - [init paths : /gainInfo]
+[26/Nov/2017:14:28:16 +0000] - [fn logger] - [init paths : /]
+[26/Nov/2017:14:28:16 +0000] - [fn logger] - [init paths : /main]
+[26/Nov/2017:14:28:16 +0000] - [fn logger] - [init paths : /reloadAuth]
+[26/Nov/2017:14:28:16 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [26/Nov/2017:14:28:19 +0000] "GET / HTTP/1.1" 200 2623 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:19 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3380 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:19 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 200 2538 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:19 +0000] "GET /javascripts/main.js HTTP/1.1" 200 8945 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:19 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:20 +0000] "GET /users/login HTTP/1.1" 200 330 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:40 +0000] "GET /news/listAllNews HTTP/1.1" 302 68 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:40 +0000] "GET /users/login HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:40 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:40 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:40 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:28:49 +0000] - [fn logger] - [[object Object]]
+::1 - - [26/Nov/2017:14:28:49 +0000] "POST /users/login HTTP/1.1" 302 54 "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:28:49 +0000] - [fn logger] - [[object Object]]
+::1 - - [26/Nov/2017:14:28:49 +0000] "GET /main HTTP/1.1" 200 176 "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:49 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:28:49 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:14:28:49 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [26/Nov/2017:14:28:49 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:49 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:28:58 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:14:28:58 +0000] - [fn logger] - [admin has no auth to access /news/listAllNews]
+::1 - - [26/Nov/2017:14:28:58 +0000] "GET /news/listAllNews HTTP/1.1" 302 46 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:58 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:58 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:58 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:58 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:28:58 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:14:28:58 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [26/Nov/2017:14:28:58 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:28:58 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:29:24 +0000] - [fn logger] - [[object Object]]
+::1 - - [26/Nov/2017:14:29:24 +0000] "GET /reloadAuth HTTP/1.1" 200 209 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:29:24 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:29:24 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:14:29:24 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [26/Nov/2017:14:29:24 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:29:24 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:29:30 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:14:29:30 +0000] - [fn logger] - [admin has no auth to access /news/listAllNews]
+::1 - - [26/Nov/2017:14:29:30 +0000] "GET /news/listAllNews HTTP/1.1" 302 46 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:29:30 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:29:30 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:29:30 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:29:30 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:29:30 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:14:29:30 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [26/Nov/2017:14:29:30 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:29:30 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:29:57 +0000] - [fn logger] - [[object Object]]
+::1 - - [26/Nov/2017:14:29:57 +0000] "GET /reloadAuth HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:29:57 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:29:57 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:14:29:57 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [26/Nov/2017:14:29:57 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:29:57 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:30:32 +0000] - [fn logger] - [init paths : /users/]
+[26/Nov/2017:14:30:32 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[26/Nov/2017:14:30:32 +0000] - [fn logger] - [init paths : /users/login]
+[26/Nov/2017:14:30:32 +0000] - [fn logger] - [init paths : /users/logout]
+[26/Nov/2017:14:30:32 +0000] - [fn logger] - [init paths : /users/login]
+[26/Nov/2017:14:30:32 +0000] - [fn logger] - [init paths : /news/listAllNews]
+[26/Nov/2017:14:30:32 +0000] - [fn logger] - [init paths : /news/addNews]
+[26/Nov/2017:14:30:32 +0000] - [fn logger] - [init paths : /gainInfo]
+[26/Nov/2017:14:30:32 +0000] - [fn logger] - [init paths : /]
+[26/Nov/2017:14:30:32 +0000] - [fn logger] - [init paths : /main]
+[26/Nov/2017:14:30:32 +0000] - [fn logger] - [init paths : /reloadAuth]
+[26/Nov/2017:14:30:32 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[26/Nov/2017:14:30:41 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[26/Nov/2017:14:30:41 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::1 - - [26/Nov/2017:14:30:41 +0000] "GET /news/listAllNews HTTP/1.1" 200 792 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:30:42 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171123]
+[26/Nov/2017:14:30:42 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171123]
+[26/Nov/2017:14:30:42 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:14:30:42 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+	<title>新闻测试页面</title>
+	</head>
+	<body>
+	<div class="newsHead"><h1>重庆市XXX污水处理厂</h1></div>
+	<div class="newsContainer">
+		<h1 class="newstitle">新闻测试页面</h1>
+		<div class="info clearfix">
+			<small class="author">jack</small>
+			<small class="date">2017-11-23 00:54:41</small>
+		</div>
+		<p class="content"> 以下信息根据您的兴趣推荐  
+穆加贝辞职是否会对中津关系造成影响?外交部回应
+网易新闻 11-22 16:42 热点
+水利部部署进一步规范小型病险水库除险加固项目管理工作
+金融界 11-22 19:55
+ 
+津巴布韦执政党推选前副总统姆南加古瓦为总统
+</p>
+	</div>
+	<div class="newsFooter">
+		<div class="wrap">
+		<ul class="clearfix">
+				<li>联系电话：023-88888888</li>
+				<li>邮箱：xx@xx.xx</li>
+				<li>地址:重庆市xx区</li>
+				<li>招聘</li>
+				<li>关于我们</li>
+			</ul>
+		</div>
+	</div>
+	</body>
+	</html>
+]
+[26/Nov/2017:14:30:42 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:14:30:42 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+	<title>test2</title>
+	</head>
+	<body>
+	<div class="newsHead"><h1>重庆市XXX污水处理厂</h1></div>
+	<div class="newsContainer">
+		<h1 class="newstitle">test2</h1>
+		<div class="info clearfix">
+			<small class="author">jackchan</small>
+			<small class="date">2017-11-23 00:54:41</small>
+		</div>
+		<p class="content">content</p>
+	</div>
+	<div class="newsFooter">
+		<div class="wrap">
+		<ul class="clearfix">
+				<li>联系电话：023-88888888</li>
+				<li>邮箱：xx@xx.xx</li>
+				<li>地址:重庆市xx区</li>
+				<li>招聘</li>
+				<li>关于我们</li>
+			</ul>
+		</div>
+	</div>
+	</body>
+	</html>
+]
+::1 - - [26/Nov/2017:14:30:42 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/listAllNews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:30:42 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/news/listAllNews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:30:42 +0000] "GET /users/login HTTP/1.1" 200 330 "http://localhost:3000/news/listAllNews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:22 +0000] "GET /reloadAuth HTTP/1.1" 302 68 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:22 +0000] "GET /users/login HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:22 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:22 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:22 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:26 +0000] "GET /reloadAuth HTTP/1.1" 302 68 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:26 +0000] "GET /users/login HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:26 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:26 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:26 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:31:38 +0000] - [fn logger] - [[object Object]]
+::1 - - [26/Nov/2017:14:31:38 +0000] "POST /users/login HTTP/1.1" 302 54 "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:31:38 +0000] - [fn logger] - [[object Object]]
+::1 - - [26/Nov/2017:14:31:38 +0000] "GET /main HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:38 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:31:38 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:14:31:38 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [26/Nov/2017:14:31:38 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:38 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:31:41 +0000] - [fn logger] - [[object Object]]
+::1 - - [26/Nov/2017:14:31:41 +0000] "GET /reloadAuth HTTP/1.1" 200 209 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:41 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:31:41 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:14:31:41 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [26/Nov/2017:14:31:41 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:41 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:31:43 +0000] - [fn logger] - [[object Object]]
+::1 - - [26/Nov/2017:14:31:43 +0000] "GET /reloadAuth HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:43 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:31:43 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:14:31:43 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [26/Nov/2017:14:31:43 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:31:43 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:32:55 +0000] - [fn logger] - [init paths : /users/]
+[26/Nov/2017:14:32:55 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[26/Nov/2017:14:32:55 +0000] - [fn logger] - [init paths : /users/login]
+[26/Nov/2017:14:32:55 +0000] - [fn logger] - [init paths : /users/logout]
+[26/Nov/2017:14:32:55 +0000] - [fn logger] - [init paths : /users/login]
+[26/Nov/2017:14:32:55 +0000] - [fn logger] - [init paths : /news/mknews]
+[26/Nov/2017:14:32:55 +0000] - [fn logger] - [init paths : /news/addNews]
+[26/Nov/2017:14:32:55 +0000] - [fn logger] - [init paths : /gainInfo]
+[26/Nov/2017:14:32:55 +0000] - [fn logger] - [init paths : /]
+[26/Nov/2017:14:32:55 +0000] - [fn logger] - [init paths : /main]
+[26/Nov/2017:14:32:55 +0000] - [fn logger] - [init paths : /reloadAuth]
+[26/Nov/2017:14:32:55 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [26/Nov/2017:14:32:58 +0000] "GET /reloadAuth HTTP/1.1" 302 68 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:32:58 +0000] "GET /users/login HTTP/1.1" 200 330 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:32:58 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:32:58 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:32:58 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:33:05 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[26/Nov/2017:14:33:05 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::1 - - [26/Nov/2017:14:33:05 +0000] "GET /news/mknews HTTP/1.1" 200 792 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[26/Nov/2017:14:33:05 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171123]
+[26/Nov/2017:14:33:05 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171123]
+[26/Nov/2017:14:33:05 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:14:33:05 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+	<title>新闻测试页面</title>
+	</head>
+	<body>
+	<div class="newsHead"><h1>重庆市XXX污水处理厂</h1></div>
+	<div class="newsContainer">
+		<h1 class="newstitle">新闻测试页面</h1>
+		<div class="info clearfix">
+			<small class="author">jack</small>
+			<small class="date">2017-11-23 00:54:41</small>
+		</div>
+		<p class="content"> 以下信息根据您的兴趣推荐  
+穆加贝辞职是否会对中津关系造成影响?外交部回应
+网易新闻 11-22 16:42 热点
+水利部部署进一步规范小型病险水库除险加固项目管理工作
+金融界 11-22 19:55
+ 
+津巴布韦执政党推选前副总统姆南加古瓦为总统
+</p>
+	</div>
+	<div class="newsFooter">
+		<div class="wrap">
+		<ul class="clearfix">
+				<li>联系电话：023-88888888</li>
+				<li>邮箱：xx@xx.xx</li>
+				<li>地址:重庆市xx区</li>
+				<li>招聘</li>
+				<li>关于我们</li>
+			</ul>
+		</div>
+	</div>
+	</body>
+	</html>
+]
+[26/Nov/2017:14:33:05 +0000] - [fn logger] - [[object Object]]
+[26/Nov/2017:14:33:05 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+	<title>test2</title>
+	</head>
+	<body>
+	<div class="newsHead"><h1>重庆市XXX污水处理厂</h1></div>
+	<div class="newsContainer">
+		<h1 class="newstitle">test2</h1>
+		<div class="info clearfix">
+			<small class="author">jackchan</small>
+			<small class="date">2017-11-23 00:54:41</small>
+		</div>
+		<p class="content">content</p>
+	</div>
+	<div class="newsFooter">
+		<div class="wrap">
+		<ul class="clearfix">
+				<li>联系电话：023-88888888</li>
+				<li>邮箱：xx@xx.xx</li>
+				<li>地址:重庆市xx区</li>
+				<li>招聘</li>
+				<li>关于我们</li>
+			</ul>
+		</div>
+	</div>
+	</body>
+	</html>
+]
+::1 - - [26/Nov/2017:14:33:05 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:33:05 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [26/Nov/2017:14:33:05 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"

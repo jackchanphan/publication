@@ -1,0 +1,132 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    | 	
+    title Main
+    | 	
+    link(rel="stylesheet", type="text/css", href="/stylesheets/style.css")
+    | 	
+    script(src="/javascripts/carouselfigure.js")
+    | 	
+    script(src="/javascripts/main.js")
+  body
+    .head
+      .wrap.clearfix
+        .logo
+          h1 logo
+        | 			
+        h1.name 重庆市XXX污水处理厂
+        | 			
+        .nav
+          .login
+            script(type="text/javascript").
+              var username = '#{user?user.username:null}';
+              if(username){
+              document.write('欢迎'+username+'！<a href="/main">管理</a>');
+              }else{
+              location.href='/';
+              }
+          | 				
+          ul.clearfix
+            li.nav_channel
+              .channel_name
+                a(href="javascript:void(0);") 首页
+              | 						
+              ul
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+                | 							
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+                | 							
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+                | 							
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+            | 					
+            li.nav_channel
+              .channel_name
+                a(href="javascript:void(0);") 新闻
+              | 						
+              ul
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+                | 							
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+                | 							
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+                | 							
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+            | 					
+            li.nav_channel
+              .channel_name
+                a(href="javascript:void(0);") 法规
+              | 						
+              ul
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+                | 							
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+                | 							
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+                | 							
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+            | 					
+            li.nav_channel
+              .channel_name
+                a(href="javascript:void(0);") 文件
+              | 						
+              ul
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+                | 							
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+                | 							
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+                | 							
+                li.nav_itm
+                  a(href="javascript:void(0);") link
+    | 	
+    .main
+      .wrap
+        #carousel-figure-box1.carousel-figure-box1
+          .carousel-figure
+            ul.pics
+              li
+                a(href="javascript:void(0)") 图片1
+              | 						
+              li
+                a(href="javascript:void(0)") 图片2
+              | 						
+              li
+                a(href="javascript:void(0)") 图片3
+              | 						
+              li
+                a(href="javascript:void(0)") 图片4
+              | 						
+              li
+                a(href="javascript:void(0)") 图片5
+          | 				
+          ul.btns
+            li 1
+            | 					
+            li 2
+            | 					
+            li 3
+            | 					
+            li 4
+            | 					
+            li 5
+    | 	
+    .foot
+      .wrap

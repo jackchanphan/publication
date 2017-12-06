@@ -1,0 +1,16 @@
+extends layout
+
+block content
+    form(action="/news/addNews" method="POST")
+        label
+            题目
+            input(name="title")
+        label
+            编辑
+            input(name="author")
+        br
+        label
+            内容
+            textarea(name="content")
+        br
+        input(type="submit" value="submit")

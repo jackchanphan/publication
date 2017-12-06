@@ -1,0 +1,589 @@
+[22/Nov/2017:11:17:00 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:11:17:00 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:11:17:00 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:11:17:00 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:11:17:00 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:11:17:00 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:11:17:00 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:11:17:00 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:11:17:03 +0000] - [fn logger] - [[object Object],[object Object]]
+::1 - - [22/Nov/2017:11:17:04 +0000] "GET / HTTP/1.1" 200 479 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:11:17:04 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:13:57:44 +0000] - [fn logger] - [[object Object],[object Object]]
+::1 - - [22/Nov/2017:13:57:44 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:13:57:44 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:14:12:56 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:14:12:56 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:14:12:56 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:14:12:56 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:14:12:56 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:14:12:56 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:14:12:56 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:14:12:56 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:14:12:56 +0000] - [fn logger] - [init paths : /reloadAuth]
+::1 - - [22/Nov/2017:14:13:00 +0000] "GET / HTTP/1.1" 200 144 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:03 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:03 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:04 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:04 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:04 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:04 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:05 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:05 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:05 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:05 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:06 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:06 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:06 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:06 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:13:06 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:14:40:10 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:14:40:10 +0000] - [fn logger] - [C:\Users\Administrator\public\html]
+[22/Nov/2017:14:40:10 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:14:40:10 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:14:40:10 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:14:40:10 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:14:40:10 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:14:40:10 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:14:40:10 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:14:40:10 +0000] - [fn logger] - [init paths : /reloadAuth]
+::1 - - [22/Nov/2017:14:40:21 +0000] "GET /mkNews HTTP/1.1" 302 68 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:40:22 +0000] "GET /users/login HTTP/1.1" 200 330 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:40:22 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 357 "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:14:40:31 +0000] - [fn logger] - [/mknews]
+::1 - - [22/Nov/2017:14:40:31 +0000] "GET /mknews HTTP/1.1" 404 1299 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:40:31 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:14:40:47 +0000] - [fn logger] - [/mknews]
+::1 - - [22/Nov/2017:14:40:47 +0000] "GET /mknews HTTP/1.1" 404 1299 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:40:47 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:14:41:30 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:14:41:30 +0000] - [fn logger] - [C:\Users\Administrator\public\html]
+[22/Nov/2017:14:41:30 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:14:41:30 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:14:41:30 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:14:41:30 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:14:41:30 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:14:41:30 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:14:41:30 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:14:41:30 +0000] - [fn logger] - [init paths : /reloadAuth]
+::1 - - [22/Nov/2017:14:41:32 +0000] "GET /news/mknews HTTP/1.1" 200 479 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:14:41:32 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:15:08:03 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:19:16 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:19:16 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:19:16 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:19:16 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:19:16 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:19:16 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:19:16 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:19:16 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:19:16 +0000] - [fn logger] - [init paths : /reloadAuth]
+::1 - - [22/Nov/2017:15:19:18 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:15:19:18 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:20:19 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:20:19 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:20:19 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:20:19 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:20:19 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:20:19 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:20:19 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:20:19 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:20:19 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:15:20:19 +0000] - [fn logger] - [[object Object]]
+[22/Nov/2017:15:20:19 +0000] - [fn logger] - [[object Object]]
+::1 - - [22/Nov/2017:15:20:20 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [22/Nov/2017:15:20:20 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:21:30 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:21:30 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:21:30 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:21:30 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:21:30 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:21:30 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:21:30 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:21:30 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:21:30 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:15:21:31 +0000] - [fn logger] - [C:\Users\Administrator\public\html\news\20171022]
+[22/Nov/2017:15:21:31 +0000] - [fn logger] - [C:\Users\Administrator\public\html\flfg\20171022]
+::1 - - [22/Nov/2017:15:21:32 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:21:32 +0000] - [fn logger] - [Error: ENOENT: no such file or directory, mkdir 'C:\Users\Administrator\public\html\news\20171022']
+[22/Nov/2017:15:21:32 +0000] - [fn logger] - [Error: ENOENT: no such file or directory, mkdir 'C:\Users\Administrator\public\html\flfg\20171022']
+::1 - - [22/Nov/2017:15:21:32 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:27:02 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:27:02 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[22/Nov/2017:15:27:02 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:27:02 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:27:02 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:27:02 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:27:02 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:27:02 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:27:02 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:27:02 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:15:27:02 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[22/Nov/2017:15:27:02 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171022]
+[22/Nov/2017:15:27:02 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171022]
+::1 - - [22/Nov/2017:15:27:03 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:27:03 +0000] - [fn logger] - [Error: ENOENT: no such file or directory, mkdir 'C:\Users\Administrator\publication\public\html\news\20171022']
+[22/Nov/2017:15:27:03 +0000] - [fn logger] - [Error: ENOENT: no such file or directory, mkdir 'C:\Users\Administrator\publication\public\html\flfg\20171022']
+::1 - - [22/Nov/2017:15:27:03 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:33:34 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:33:34 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[22/Nov/2017:15:33:34 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:33:34 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:33:34 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:33:34 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:33:34 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:33:34 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:33:34 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:33:34 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:15:33:34 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [22/Nov/2017:15:33:39 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:33:39 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171022]
+[22/Nov/2017:15:33:39 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171022]
+[22/Nov/2017:15:33:39 +0000] - [fn logger] - [Error: ENOENT: no such file or directory, mkdir 'C:\Users\Administrator\publication\public\html\news\20171022']
+[22/Nov/2017:15:33:39 +0000] - [fn logger] - [Error: ENOENT: no such file or directory, mkdir 'C:\Users\Administrator\publication\public\html\flfg\20171022']
+::1 - - [22/Nov/2017:15:33:39 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:34:40 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:34:40 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[22/Nov/2017:15:34:40 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:34:40 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:34:40 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:34:40 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:34:40 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:34:40 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:34:40 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:34:40 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:15:34:40 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[22/Nov/2017:15:34:40 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[22/Nov/2017:15:34:40 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::1 - - [22/Nov/2017:15:34:41 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:34:41 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171022]
+[22/Nov/2017:15:34:41 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171022]
+[22/Nov/2017:15:34:41 +0000] - [fn logger] - [Error: ENOENT: no such file or directory, mkdir 'C:\Users\Administrator\publication\public\html\news\20171022']
+[22/Nov/2017:15:34:41 +0000] - [fn logger] - [Error: ENOENT: no such file or directory, mkdir 'C:\Users\Administrator\publication\public\html\flfg\20171022']
+::1 - - [22/Nov/2017:15:34:41 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:35:25 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:35:25 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[22/Nov/2017:15:35:25 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:35:25 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:35:25 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:35:25 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:35:25 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:35:25 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:35:25 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:35:25 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:15:35:25 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[22/Nov/2017:15:35:30 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[22/Nov/2017:15:35:30 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::1 - - [22/Nov/2017:15:35:31 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:35:31 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171022]
+[22/Nov/2017:15:35:31 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171022]
+[22/Nov/2017:15:36:47 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:36:47 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[22/Nov/2017:15:37:10 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:37:10 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[22/Nov/2017:15:37:10 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:37:10 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:37:10 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:37:10 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:37:10 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:37:10 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:37:10 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:37:10 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:15:37:10 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[22/Nov/2017:15:37:15 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[22/Nov/2017:15:37:15 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::1 - - [22/Nov/2017:15:37:15 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:37:15 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171022]
+[22/Nov/2017:15:37:15 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171022]
+[22/Nov/2017:15:37:15 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>test1</title>
+	</head>
+	<body>
+	<div class="newsContainer">
+		<h1>#{title}</h1>
+		<div class="info clearfix">
+			<small class="author">jack</small>
+			<small class="date">2017-11-22 19:17:00</small>
+		</div>
+		<p class="content">content</p>
+	</div>
+	</body>
+	</html>
+]
+[22/Nov/2017:15:37:15 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>test2</title>
+	</head>
+	<body>
+	<div class="newsContainer">
+		<h1>#{title}</h1>
+		<div class="info clearfix">
+			<small class="author">jackchan</small>
+			<small class="date">2017-11-22 19:17:00</small>
+		</div>
+		<p class="content">content</p>
+	</div>
+	</body>
+	</html>
+]
+::1 - - [22/Nov/2017:15:37:15 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:38:27 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:38:27 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[22/Nov/2017:15:38:27 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:38:27 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:38:27 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:38:27 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:38:27 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:38:27 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:38:27 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:38:27 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:15:38:27 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[22/Nov/2017:15:38:27 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[22/Nov/2017:15:38:27 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::1 - - [22/Nov/2017:15:38:28 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:38:28 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171022]
+[22/Nov/2017:15:38:28 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171022]
+[22/Nov/2017:15:38:28 +0000] - [fn logger] - [[object Object]]
+[22/Nov/2017:15:38:28 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>test1</title>
+	</head>
+	<body>
+	<div class="newsContainer">
+		<h1>#{title}</h1>
+		<div class="info clearfix">
+			<small class="author">jack</small>
+			<small class="date">2017-11-22 19:17:00</small>
+		</div>
+		<p class="content">content</p>
+	</div>
+	</body>
+	</html>
+]
+[22/Nov/2017:15:38:28 +0000] - [fn logger] - [[object Object]]
+[22/Nov/2017:15:38:28 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>test2</title>
+	</head>
+	<body>
+	<div class="newsContainer">
+		<h1>#{title}</h1>
+		<div class="info clearfix">
+			<small class="author">jackchan</small>
+			<small class="date">2017-11-22 19:17:00</small>
+		</div>
+		<p class="content">content</p>
+	</div>
+	</body>
+	</html>
+]
+::1 - - [22/Nov/2017:15:38:28 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:39:25 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[22/Nov/2017:15:39:25 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:39:25 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[22/Nov/2017:15:39:25 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:39:25 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:39:25 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:39:25 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:39:25 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:39:25 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:39:25 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:39:25 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:15:39:26 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[22/Nov/2017:15:39:26 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::1 - - [22/Nov/2017:15:39:27 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:39:27 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171022]
+[22/Nov/2017:15:39:27 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171022]
+[22/Nov/2017:15:39:27 +0000] - [fn logger] - [[object Object]]
+[22/Nov/2017:15:39:27 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>#{title}</title>
+	</head>
+	<body>
+	<div class="newsContainer">
+		<h1>#{title}</h1>
+		<div class="info clearfix">
+			<small class="author">jackchan</small>
+			<small class="date">2017-11-22 19:17:00</small>
+		</div>
+		<p class="content">content</p>
+	</div>
+	</body>
+	</html>
+]
+[22/Nov/2017:15:39:27 +0000] - [fn logger] - [[object Object]]
+[22/Nov/2017:15:39:27 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>#{title}</title>
+	</head>
+	<body>
+	<div class="newsContainer">
+		<h1>#{title}</h1>
+		<div class="info clearfix">
+			<small class="author">jack</small>
+			<small class="date">2017-11-22 19:17:00</small>
+		</div>
+		<p class="content">content</p>
+	</div>
+	</body>
+	</html>
+]
+::1 - - [22/Nov/2017:15:39:27 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:40:48 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:40:48 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[22/Nov/2017:15:40:48 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:40:48 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:40:48 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:40:48 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:40:48 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:40:48 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:40:48 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:40:48 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:15:40:48 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[22/Nov/2017:15:40:49 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[22/Nov/2017:15:40:49 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::1 - - [22/Nov/2017:15:40:49 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:40:49 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171022]
+[22/Nov/2017:15:40:50 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171022]
+[22/Nov/2017:15:40:50 +0000] - [fn logger] - [[object Object]]
+[22/Nov/2017:15:40:50 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>#{title}</title>
+	</head>
+	<body>
+	<div class="newsContainer">
+		<h1>#{title}</h1>
+		<div class="info clearfix">
+			<small class="author">#{author}</small>
+			<small class="date">#{date}</small>
+		</div>
+		<p class="content">#{content}</p>
+	</div>
+	</body>
+	</html>
+]
+[22/Nov/2017:15:40:50 +0000] - [fn logger] - [[object Object]]
+[22/Nov/2017:15:40:50 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>#{title}</title>
+	</head>
+	<body>
+	<div class="newsContainer">
+		<h1>#{title}</h1>
+		<div class="info clearfix">
+			<small class="author">#{author}</small>
+			<small class="date">#{date}</small>
+		</div>
+		<p class="content">#{content}</p>
+	</div>
+	</body>
+	</html>
+]
+::1 - - [22/Nov/2017:15:40:50 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:51:45 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:51:45 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[22/Nov/2017:15:51:45 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:51:45 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:51:45 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:51:45 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:51:45 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:51:45 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:51:45 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:51:45 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:15:51:45 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[22/Nov/2017:15:51:47 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[22/Nov/2017:15:51:47 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::1 - - [22/Nov/2017:15:51:48 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:51:48 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171022]
+[22/Nov/2017:15:51:48 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171022]
+[22/Nov/2017:15:51:48 +0000] - [fn logger] - [[object Object]]
+[22/Nov/2017:15:51:48 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>__title__</title>
+	</head>
+	<body>
+	<div class="newsContainer">
+		<h1>__title__</h1>
+		<div class="info clearfix">
+			<small class="author">__author__</small>
+			<small class="date">__date__</small>
+		</div>
+		<p class="content">__content__</p>
+	</div>
+	</body>
+	</html>
+]
+[22/Nov/2017:15:51:48 +0000] - [fn logger] - [[object Object]]
+[22/Nov/2017:15:51:48 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>__title__</title>
+	</head>
+	<body>
+	<div class="newsContainer">
+		<h1>__title__</h1>
+		<div class="info clearfix">
+			<small class="author">__author__</small>
+			<small class="date">__date__</small>
+		</div>
+		<p class="content">__content__</p>
+	</div>
+	</body>
+	</html>
+]
+::1 - - [22/Nov/2017:15:51:48 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:52:41 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:52:41 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[22/Nov/2017:15:52:41 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:52:41 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:52:41 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:52:41 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:52:41 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:52:41 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:52:41 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:52:41 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:15:52:41 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[22/Nov/2017:15:52:43 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[22/Nov/2017:15:52:43 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::1 - - [22/Nov/2017:15:52:44 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:52:44 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171022]
+[22/Nov/2017:15:52:44 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171022]
+[22/Nov/2017:15:52:44 +0000] - [fn logger] - [[object Object]]
+[22/Nov/2017:15:52:44 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>test1</title>
+	</head>
+	<body>
+	<div class="newsContainer">
+		<h1>test1</h1>
+		<div class="info clearfix">
+			<small class="author">__author__</small>
+			<small class="date">__date__</small>
+		</div>
+		<p class="content">__content__</p>
+	</div>
+	</body>
+	</html>
+]
+[22/Nov/2017:15:52:44 +0000] - [fn logger] - [[object Object]]
+[22/Nov/2017:15:52:44 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>test2</title>
+	</head>
+	<body>
+	<div class="newsContainer">
+		<h1>test2</h1>
+		<div class="info clearfix">
+			<small class="author">__author__</small>
+			<small class="date">__date__</small>
+		</div>
+		<p class="content">__content__</p>
+	</div>
+	</body>
+	</html>
+]
+::1 - - [22/Nov/2017:15:52:44 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:53:35 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:53:35 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[22/Nov/2017:15:53:35 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:53:35 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:53:35 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:53:35 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:53:35 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:53:35 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:53:35 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:53:35 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:15:53:35 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[22/Nov/2017:15:53:35 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\news]
+[22/Nov/2017:15:53:35 +0000] - [fn logger] - [11111-----C:\Users\Administrator\publication\public\html\flfg]
+::ffff:127.0.0.1 - - [22/Nov/2017:15:53:36 +0000] "GET /news/mknews HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:53:36 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\news\20171022]
+[22/Nov/2017:15:53:36 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html\flfg\20171022]
+[22/Nov/2017:15:53:36 +0000] - [fn logger] - [[object Object]]
+[22/Nov/2017:15:53:36 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>test1</title>
+	</head>
+	<body>
+	<div class="newsContainer">
+		<h1>test1</h1>
+		<div class="info clearfix">
+			<small class="author">jack</small>
+			<small class="date">2017-11-22 19:17:00</small>
+		</div>
+		<p class="content">content</p>
+	</div>
+	</body>
+	</html>
+]
+[22/Nov/2017:15:53:36 +0000] - [fn logger] - [[object Object]]
+[22/Nov/2017:15:53:36 +0000] - [fn logger] - [
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>test2</title>
+	</head>
+	<body>
+	<div class="newsContainer">
+		<h1>test2</h1>
+		<div class="info clearfix">
+			<small class="author">jackchan</small>
+			<small class="date">2017-11-22 19:17:00</small>
+		</div>
+		<p class="content">content</p>
+	</div>
+	</body>
+	</html>
+]
+::ffff:127.0.0.1 - - [22/Nov/2017:15:53:36 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[22/Nov/2017:15:59:47 +0000] - [fn logger] - [init paths : /users/]
+[22/Nov/2017:15:59:47 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[22/Nov/2017:15:59:47 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:59:47 +0000] - [fn logger] - [init paths : /users/logout]
+[22/Nov/2017:15:59:47 +0000] - [fn logger] - [init paths : /users/login]
+[22/Nov/2017:15:59:47 +0000] - [fn logger] - [init paths : /news/mknews]
+[22/Nov/2017:15:59:47 +0000] - [fn logger] - [init paths : /gainInfo]
+[22/Nov/2017:15:59:47 +0000] - [fn logger] - [init paths : /]
+[22/Nov/2017:15:59:47 +0000] - [fn logger] - [init paths : /main]
+[22/Nov/2017:15:59:47 +0000] - [fn logger] - [init paths : /reloadAuth]
+[22/Nov/2017:15:59:47 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]

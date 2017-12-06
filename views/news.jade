@@ -1,0 +1,20 @@
+extends layout
+
+block content
+ script(src="/javascripts/news_crud.js")
+ script(src="/javascripts/utils.js")
+ div.newsContainer
+  -for(var i=0;i<news.length;i++){
+  -news[i].date = (new Date(news[i].date)).toLocaleString();
+  -if(i>0){
+    hr
+  -}
+    h1= news[i].title
+    div.info.clearfix
+        small.author= news[i].author
+        small.date= news[i].date
+    p.content(style="background:white;padding-bottom:2rem;")= news[i].content
+    div.ctrl
+        button.delNews(onclick="delNews(#{news[i].id})")
+            删除该条新闻
+  -}

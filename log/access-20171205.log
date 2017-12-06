@@ -1,0 +1,215 @@
+[05/Dec/2017:11:43:45 +0000] - [fn logger] - ["init paths : /users/"]
+[05/Dec/2017:11:43:45 +0000] - [fn logger] - ["C:\\Users\\Administrator\\publication"]
+[05/Dec/2017:11:43:45 +0000] - [fn logger] - ["init paths : /users/login"]
+[05/Dec/2017:11:43:45 +0000] - [fn logger] - ["init paths : /users/logout"]
+[05/Dec/2017:11:43:45 +0000] - [fn logger] - ["init paths : /users/login"]
+[05/Dec/2017:11:43:45 +0000] - [fn logger] - ["init paths : /news/mknews"]
+[05/Dec/2017:11:43:45 +0000] - [fn logger] - ["init paths : /news/addNews"]
+[05/Dec/2017:11:43:45 +0000] - [fn logger] - ["init paths : /gainInfo"]
+[05/Dec/2017:11:43:45 +0000] - [fn logger] - ["init paths : /"]
+[05/Dec/2017:11:43:45 +0000] - [fn logger] - ["init paths : /main"]
+[05/Dec/2017:11:43:45 +0000] - [fn logger] - ["init paths : /reloadAuth"]
+[05/Dec/2017:11:43:45 +0000] - [fn logger] - ["init paths : /filterLog"]
+[05/Dec/2017:11:43:45 +0000] - [fn logger] - ["C:\\Users\\Administrator\\publication\\public\\html"]
+::1 - - [05/Dec/2017:11:43:50 +0000] "GET / HTTP/1.1" 200 3126 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:43:50 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:43:50 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:43:50 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:43:51 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:43:53 +0000] "GET /users/login HTTP/1.1" 200 330 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:44:04 +0000] "POST /users/login HTTP/1.1" 200 383 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:44:04 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:44:04 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:44:04 +0000] "GET /users/login HTTP/1.1" 200 330 "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:44:08 +0000] - [fn logger] - ["user.group:"]
+[05/Dec/2017:11:44:08 +0000] - [fn logger] - [undefined]
+[05/Dec/2017:11:44:08 +0000] - [fn logger] - [{"username":"admin","psw":"123","auths":{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true},"group":{"type":"admin","auths":{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}},"authsVersion":1}]
+::1 - - [05/Dec/2017:11:44:08 +0000] "POST /users/login HTTP/1.1" 302 54 "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:44:08 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+::1 - - [05/Dec/2017:11:44:08 +0000] "GET /main HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:44:09 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:44:09 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:44:09 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:44:09 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:44:09 +0000] - [fn logger] - ["admin has no auth to access /favicon.ico"]
+::1 - - [05/Dec/2017:11:44:09 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:44:09 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:44:15 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:44:15 +0000] - [fn logger] - ["admin has no auth to access /news/mknews"]
+::1 - - [05/Dec/2017:11:44:15 +0000] "GET /news/mknews HTTP/1.1" 302 46 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:44:16 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:44:16 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:44:16 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:44:16 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:44:16 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:44:16 +0000] - [fn logger] - ["admin has no auth to access /favicon.ico"]
+::1 - - [05/Dec/2017:11:44:16 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:44:16 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:45:05 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:45:05 +0000] - [fn logger] - ["user.group:"]
+[05/Dec/2017:11:45:05 +0000] - [fn logger] - [undefined]
+[05/Dec/2017:11:45:05 +0000] - [fn logger] - [{"username":"admin","psw":"123","auths":{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true},"group":{"type":"admin","auths":{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}},"authsVersion":1}]
+::1 - - [05/Dec/2017:11:45:05 +0000] "POST /users/login HTTP/1.1" 302 54 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:45:05 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+::1 - - [05/Dec/2017:11:45:05 +0000] "GET /main HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:45:05 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:45:05 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:45:05 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:45:05 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:45:05 +0000] - [fn logger] - ["admin has no auth to access /favicon.ico"]
+::1 - - [05/Dec/2017:11:45:05 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:45:05 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:45:10 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:45:10 +0000] - [fn logger] - ["admin has no auth to access /news/mknews"]
+::1 - - [05/Dec/2017:11:45:10 +0000] "GET /news/mknews HTTP/1.1" 302 46 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:45:10 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:45:10 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:45:10 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:45:10 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:45:10 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:45:10 +0000] - [fn logger] - ["admin has no auth to access /favicon.ico"]
+::1 - - [05/Dec/2017:11:45:10 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:45:10 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:13 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:46:13 +0000] - [fn logger] - ["user.group:"]
+[05/Dec/2017:11:46:13 +0000] - [fn logger] - [undefined]
+[05/Dec/2017:11:46:13 +0000] - [fn logger] - [{"username":"admin","psw":"123","auths":{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true},"group":{"type":"admin","auths":{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}},"authsVersion":1}]
+::1 - - [05/Dec/2017:11:46:13 +0000] "POST /users/login HTTP/1.1" 302 54 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:13 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+::1 - - [05/Dec/2017:11:46:14 +0000] "GET /main HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:14 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:14 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:14 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:14 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:46:14 +0000] - [fn logger] - ["admin has no auth to access /favicon.ico"]
+::1 - - [05/Dec/2017:11:46:14 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:14 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:17 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:46:17 +0000] - [fn logger] - [{"version":1,"public":{"/users/login":true,"/users/logout":true,"/":true,"/main":true,"/news/addNews":true,"/filterLog":true},"admin":{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}}]
+[05/Dec/2017:11:46:17 +0000] - [fn logger] - ["<<<<_____before"]
+[05/Dec/2017:11:46:17 +0000] - [fn logger] - [{"version":1,"public":{"/users/login":true,"/users/logout":true,"/":true,"/main":true,"/news/addNews":true,"/filterLog":true},"admin":{"/main":true,"/reloadAuth":true,"/news/mknews":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}}]
+[05/Dec/2017:11:46:17 +0000] - [fn logger] - ["<<<<_____after"]
+::1 - - [05/Dec/2017:11:46:17 +0000] "GET /reloadAuth HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:17 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:17 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:17 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:17 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:46:17 +0000] - [fn logger] - ["admin has no auth to access /favicon.ico"]
+::1 - - [05/Dec/2017:11:46:17 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:18 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:23 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:46:23 +0000] - [fn logger] - ["admin has no auth to access /news/mknews"]
+::1 - - [05/Dec/2017:11:46:23 +0000] "GET /news/mknews HTTP/1.1" 302 46 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:23 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:23 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:23 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:23 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:23 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:46:23 +0000] - [fn logger] - ["admin has no auth to access /favicon.ico"]
+::1 - - [05/Dec/2017:11:46:23 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:23 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:36 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:46:36 +0000] - [fn logger] - [{"version":1,"public":{"/users/login":true,"/users/logout":true,"/":true,"/main":true,"/news/addNews":true,"/filterLog":true},"admin":{"/main":true,"/reloadAuth":true,"/news/mknews":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}}]
+[05/Dec/2017:11:46:36 +0000] - [fn logger] - ["<<<<_____before"]
+[05/Dec/2017:11:46:36 +0000] - [fn logger] - [{"version":1,"public":{"/users/login":true,"/users/logout":true,"/":true,"/main":true,"/news/addNews":true,"/filterLog":true},"admin":{"/main":true,"/reloadAuth":true,"/news/mknews":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}}]
+[05/Dec/2017:11:46:36 +0000] - [fn logger] - ["<<<<_____after"]
+::1 - - [05/Dec/2017:11:46:36 +0000] "GET /reloadAuth HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:36 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:36 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:36 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:36 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:46:36 +0000] - [fn logger] - ["admin has no auth to access /favicon.ico"]
+::1 - - [05/Dec/2017:11:46:36 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:36 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:39 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:46:39 +0000] - [fn logger] - [{"version":1,"public":{"/users/login":true,"/users/logout":true,"/":true,"/main":true,"/news/addNews":true,"/filterLog":true},"admin":{"/main":true,"/reloadAuth":true,"/news/mknews":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}}]
+[05/Dec/2017:11:46:39 +0000] - [fn logger] - ["<<<<_____before"]
+[05/Dec/2017:11:46:39 +0000] - [fn logger] - [{"version":1,"public":{"/users/login":true,"/users/logout":true,"/":true,"/main":true,"/news/addNews":true,"/filterLog":true},"admin":{"/main":true,"/reloadAuth":true,"/news/mknews":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}}]
+[05/Dec/2017:11:46:39 +0000] - [fn logger] - ["<<<<_____after"]
+::1 - - [05/Dec/2017:11:46:39 +0000] "GET /reloadAuth HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:39 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:39 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:39 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:39 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:46:39 +0000] - [fn logger] - ["admin has no auth to access /favicon.ico"]
+::1 - - [05/Dec/2017:11:46:39 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:39 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:44 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:46:44 +0000] - [fn logger] - ["admin has no auth to access /news/mknews"]
+::1 - - [05/Dec/2017:11:46:44 +0000] "GET /news/mknews HTTP/1.1" 302 46 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:44 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:44 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:44 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:44 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:44 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:46:44 +0000] - [fn logger] - ["admin has no auth to access /favicon.ico"]
+::1 - - [05/Dec/2017:11:46:44 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:44 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:48 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+::1 - - [05/Dec/2017:11:46:48 +0000] "GET /main HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:48 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:48 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:48 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:46:48 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:46:48 +0000] - [fn logger] - ["admin has no auth to access /favicon.ico"]
+::1 - - [05/Dec/2017:11:46:48 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:46:48 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:49:12 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:49:12 +0000] - [fn logger] - [{"version":1,"public":{"/users/login":true,"/users/logout":true,"/":true,"/main":true,"/news/addNews":true,"/filterLog":true},"admin":{"/main":true,"/reloadAuth":true,"/news/mknews":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}}]
+[05/Dec/2017:11:49:12 +0000] - [fn logger] - ["<<<<_____before"]
+[05/Dec/2017:11:49:12 +0000] - [fn logger] - [{"version":1,"public":{"/favicon.ico":true,"/users/login":true,"/users/logout":true,"/":true,"/main":true,"/news/addNews":true,"/filterLog":true},"admin":{"/main":true,"/reloadAuth":true,"/news/mknews":true,"/gainInfo":true,"/favicon.ico":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}}]
+[05/Dec/2017:11:49:12 +0000] - [fn logger] - ["<<<<_____after"]
+::1 - - [05/Dec/2017:11:49:12 +0000] "GET /reloadAuth HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:12 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:12 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:12 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:49:12 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:49:12 +0000] - [fn logger] - ["admin has no auth to access /favicon.ico"]
+::1 - - [05/Dec/2017:11:49:12 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:12 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/reloadAuth" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:49:17 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:49:17 +0000] - [fn logger] - ["admin has no auth to access /news/mknews"]
+::1 - - [05/Dec/2017:11:49:17 +0000] "GET /news/mknews HTTP/1.1" 302 46 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:17 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:17 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:17 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:17 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:49:17 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/gainInfo":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+[05/Dec/2017:11:49:17 +0000] - [fn logger] - ["admin has no auth to access /favicon.ico"]
+::1 - - [05/Dec/2017:11:49:17 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:17 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:49:39 +0000] - [fn logger] - ["init paths : /users/"]
+[05/Dec/2017:11:49:39 +0000] - [fn logger] - ["C:\\Users\\Administrator\\publication"]
+[05/Dec/2017:11:49:39 +0000] - [fn logger] - ["init paths : /users/login"]
+[05/Dec/2017:11:49:39 +0000] - [fn logger] - ["init paths : /users/logout"]
+[05/Dec/2017:11:49:39 +0000] - [fn logger] - ["init paths : /users/login"]
+[05/Dec/2017:11:49:39 +0000] - [fn logger] - ["init paths : /news/mknews"]
+[05/Dec/2017:11:49:39 +0000] - [fn logger] - ["init paths : /news/addNews"]
+[05/Dec/2017:11:49:39 +0000] - [fn logger] - ["init paths : /gainInfo"]
+[05/Dec/2017:11:49:39 +0000] - [fn logger] - ["init paths : /"]
+[05/Dec/2017:11:49:39 +0000] - [fn logger] - ["init paths : /main"]
+[05/Dec/2017:11:49:39 +0000] - [fn logger] - ["init paths : /reloadAuth"]
+[05/Dec/2017:11:49:39 +0000] - [fn logger] - ["init paths : /filterLog"]
+[05/Dec/2017:11:49:39 +0000] - [fn logger] - ["C:\\Users\\Administrator\\publication\\public\\html"]
+::1 - - [05/Dec/2017:11:49:40 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:40 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:40 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:40 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:49:40 +0000] - [fn logger] - ["/favicon.ico"]
+::1 - - [05/Dec/2017:11:49:40 +0000] "GET /favicon.ico HTTP/1.1" 404 1299 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:40 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:40 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:40 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:40 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:49:48 +0000] - [fn logger] - ["user.group:"]
+[05/Dec/2017:11:49:48 +0000] - [fn logger] - [undefined]
+[05/Dec/2017:11:49:48 +0000] - [fn logger] - [{"username":"admin","psw":"123","auths":{"/main":true,"/reloadAuth":true,"/news/mknews":true,"/gainInfo":true,"/favicon.ico":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true},"group":{"type":"admin","auths":{"/main":true,"/reloadAuth":true,"/news/mknews":true,"/gainInfo":true,"/favicon.ico":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}},"authsVersion":1}]
+::1 - - [05/Dec/2017:11:49:48 +0000] "POST /users/login HTTP/1.1" 302 54 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:49:48 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/news/mknews":true,"/gainInfo":true,"/favicon.ico":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+::1 - - [05/Dec/2017:11:49:49 +0000] "GET /main HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:49 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:49 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:49 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[05/Dec/2017:11:49:55 +0000] - [fn logger] - [{"/main":true,"/reloadAuth":true,"/news/mknews":true,"/gainInfo":true,"/favicon.ico":true,"/users/login":true,"/users/logout":true,"/":true,"/news/addNews":true,"/filterLog":true}]
+::1 - - [05/Dec/2017:11:49:56 +0000] "GET /news/mknews HTTP/1.1" 200 792 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [05/Dec/2017:11:49:56 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/news/mknews" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"

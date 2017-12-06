@@ -1,0 +1,574 @@
+[27/Nov/2017:13:54:01 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:13:54:01 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:13:54:01 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:13:54:01 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:13:54:01 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:13:54:01 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:13:54:01 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:13:54:01 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:13:54:01 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:13:54:01 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:13:54:01 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:13:54:01 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[27/Nov/2017:13:55:46 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:13:55:46 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:13:55:46 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:13:55:46 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:13:55:46 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:13:55:46 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:13:55:46 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:13:55:46 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:13:55:46 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:13:55:46 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:13:55:46 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:13:55:46 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[27/Nov/2017:13:57:51 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:13:57:51 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:13:57:51 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:13:57:51 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:13:57:51 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:13:57:51 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:13:57:51 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:13:57:51 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:13:57:51 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:13:57:51 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:13:57:51 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:13:57:51 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[27/Nov/2017:13:58:22 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:13:58:22 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:13:58:22 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:13:58:22 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:13:58:22 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:13:58:22 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:13:58:22 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:13:58:22 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:13:58:22 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:13:58:22 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:13:58:22 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:13:58:22 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [27/Nov/2017:13:58:57 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:13:59:01 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:13:59:01 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:13:59:01 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:13:59:01 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:13:59:01 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:13:59:01 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:13:59:01 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:13:59:01 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:13:59:01 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:13:59:01 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:13:59:01 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:13:59:01 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [27/Nov/2017:13:59:16 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:13:59:16 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:13:59:16 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:13:59:16 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:13:59:16 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:13:59:19 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:01:50 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:01:50 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:01:50 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:01:50 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:01:50 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:01:50 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:01:50 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:01:50 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:01:50 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:01:50 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:01:50 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:01:50 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[27/Nov/2017:14:03:00 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:03:00 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:03:00 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:03:00 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:03:00 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:03:00 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:03:00 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:03:00 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:03:00 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:03:00 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:03:00 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:03:00 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[27/Nov/2017:14:03:18 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:03:18 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:03:18 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:03:18 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:03:18 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:03:18 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:03:18 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:03:18 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:03:18 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:03:18 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:03:18 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:03:18 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[27/Nov/2017:14:03:35 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:03:35 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:03:35 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:03:35 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:03:35 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:03:35 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:03:35 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:03:35 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:03:35 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:03:35 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:03:35 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:03:35 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[27/Nov/2017:14:03:53 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:03:53 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:03:53 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:03:53 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:03:53 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:03:53 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:03:53 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:03:53 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:03:53 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:03:53 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:03:53 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:03:53 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[27/Nov/2017:14:04:26 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:04:26 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:04:26 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:04:26 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:04:26 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:04:26 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:04:26 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:04:26 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:04:26 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:04:26 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:04:26 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:04:26 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+[27/Nov/2017:14:08:10 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:08:10 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:08:10 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:08:10 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:08:10 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:08:10 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:08:10 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:08:10 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:08:10 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:08:10 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:08:10 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:08:10 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [27/Nov/2017:14:08:13 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:08:14 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:08:14 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:08:14 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:08:14 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:08:14 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:08:37 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:08:37 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:08:37 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:08:37 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:08:37 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:08:37 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:08:37 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:08:37 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:08:37 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:08:37 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:08:37 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:08:37 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [27/Nov/2017:14:08:39 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:08:39 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:08:39 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:08:39 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:08:39 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:08:40 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:11:19 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:11:19 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:11:19 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:11:19 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:11:19 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:11:19 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:21:35 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:21:35 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:21:35 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:21:35 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:21:35 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:21:35 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:21:35 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:21:35 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:21:35 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:21:35 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:21:35 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:21:35 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [27/Nov/2017:14:21:36 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:21:36 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:21:36 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:21:36 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:21:36 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:21:37 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:22:22 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:22:22 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:22:22 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:22:22 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:22:22 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:22:22 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:22:22 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:22:22 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:22:22 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:22:22 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:22:22 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:22:22 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [27/Nov/2017:14:22:23 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:22:23 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:22:23 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:22:23 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:22:23 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:22:24 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:24:48 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:24:48 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:24:48 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:24:48 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:24:48 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:24:48 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:24:48 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:24:48 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:24:48 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:24:48 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:24:48 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:24:48 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [27/Nov/2017:14:24:49 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:24:49 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:24:49 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:24:49 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:24:49 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:24:50 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:25:33 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:25:33 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:25:33 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:25:33 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:25:33 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:25:33 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:25:33 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:25:33 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:25:33 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:25:33 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:25:33 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:25:33 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [27/Nov/2017:14:25:34 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:25:34 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:25:34 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:25:34 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:25:34 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:25:35 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:27:36 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:27:36 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:27:36 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:27:36 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:27:36 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:27:36 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:27:36 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:27:36 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:27:36 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:27:36 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:27:36 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:27:36 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [27/Nov/2017:14:27:37 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:27:37 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:27:37 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:27:37 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:27:37 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:27:38 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:28:23 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:28:23 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:28:23 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:28:23 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:28:23 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:28:23 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:28:23 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:28:23 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:28:23 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:28:23 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:28:23 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:28:23 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [27/Nov/2017:14:28:24 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:28:24 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:28:24 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:28:24 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:28:24 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:28:25 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:28:31 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:28:31 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:28:31 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:28:31 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:28:31 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:28:31 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:28:31 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:28:31 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:28:31 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:28:31 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:28:31 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:28:31 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [27/Nov/2017:14:28:33 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:28:33 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:28:33 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:28:33 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:28:33 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:28:34 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:29:43 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:29:43 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:29:43 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:29:43 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:29:43 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:29:43 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:29:43 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:29:43 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:29:43 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:29:43 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:29:43 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:29:43 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [27/Nov/2017:14:29:45 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:29:46 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:29:46 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:29:46 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:29:46 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:29:47 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:33:23 +0000] - [fn logger] - [init paths : /users/]
+[27/Nov/2017:14:33:23 +0000] - [fn logger] - [C:\Users\Administrator\publication]
+[27/Nov/2017:14:33:23 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:33:23 +0000] - [fn logger] - [init paths : /users/logout]
+[27/Nov/2017:14:33:23 +0000] - [fn logger] - [init paths : /users/login]
+[27/Nov/2017:14:33:23 +0000] - [fn logger] - [init paths : /news/mknews]
+[27/Nov/2017:14:33:23 +0000] - [fn logger] - [init paths : /news/addNews]
+[27/Nov/2017:14:33:23 +0000] - [fn logger] - [init paths : /gainInfo]
+[27/Nov/2017:14:33:23 +0000] - [fn logger] - [init paths : /]
+[27/Nov/2017:14:33:23 +0000] - [fn logger] - [init paths : /main]
+[27/Nov/2017:14:33:23 +0000] - [fn logger] - [init paths : /reloadAuth]
+[27/Nov/2017:14:33:23 +0000] - [fn logger] - [C:\Users\Administrator\publication\public\html]
+::1 - - [27/Nov/2017:14:33:25 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:33:25 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:33:25 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:33:25 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:33:25 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:33:26 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:42:03 +0000] "GET / HTTP/1.1" 200 2793 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:42:03 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:42:03 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:42:03 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:42:03 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:42:03 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:42:30 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:42:30 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:42:30 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:42:30 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3401 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:42:30 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:42:30 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:42:38 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:43:02 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:43:02 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:43:02 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:43:02 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3414 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:43:02 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:43:02 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:04 +0000] "GET / HTTP/1.1" 200 2816 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:04 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:04 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:04 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3447 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:04 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:04 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:34 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:34 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:34 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:34 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3449 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:34 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:34 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:49 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:49 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:49 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:49 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3449 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:49 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:44:49 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:45:21 +0000] "GET / HTTP/1.1" 200 2784 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:45:21 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:45:21 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:45:21 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:45:21 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:45:21 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:45:34 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:45:34 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:45:34 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:45:34 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3449 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:45:34 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:45:34 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:46:08 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:46:08 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:46:08 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:46:08 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3448 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:46:08 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:46:08 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:46:28 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:46:28 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:46:28 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:46:28 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3448 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:46:28 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:46:28 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:47:04 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:47:04 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:47:04 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:47:04 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3468 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:47:04 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:47:04 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:47:56 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:47:56 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:47:56 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:47:56 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3469 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:47:56 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:47:56 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:48:21 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:48:21 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:48:21 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:48:21 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3467 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:48:21 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:48:21 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:48:50 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:48:50 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:48:50 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:48:50 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3455 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:48:50 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:48:50 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:49:16 +0000] "GET / HTTP/1.1" 200 2829 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:49:16 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:49:16 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:49:16 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:49:16 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:49:16 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:05 +0000] "GET / HTTP/1.1" 200 2872 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:05 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:05 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:05 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:05 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:05 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:44 +0000] "GET / HTTP/1.1" 200 2884 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:44 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:44 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:44 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3479 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:44 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:44 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:52 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:52 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:52 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:52 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3479 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:52 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:50:52 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:51:08 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:51:08 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:51:08 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:51:08 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3479 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:51:08 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:51:08 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:51:49 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:51:49 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:51:49 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:51:49 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3512 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:51:49 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:51:49 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:01 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:01 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:01 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:01 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3541 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:01 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:02 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:07 +0000] "POST /login HTTP/1.1" 302 68 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:07 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:07 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:07 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:07 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:36 +0000] "GET / HTTP/1.1" 200 2889 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:36 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:36 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:36 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:36 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:36 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:43 +0000] "POST /user/login HTTP/1.1" 302 68 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:44 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:44 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:44 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:52:44 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/users/login" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:53:05 +0000] "GET / HTTP/1.1" 200 2890 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:53:06 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:53:06 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:53:06 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3554 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:53:06 +0000] "GET /favicon.ico HTTP/1.1" 302 34 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:53:06 +0000] "GET /users/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:53:12 +0000] - [fn logger] - [[object Object]]
+::1 - - [27/Nov/2017:14:53:12 +0000] "POST /users/login HTTP/1.1" 302 54 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:53:12 +0000] - [fn logger] - [[object Object]]
+::1 - - [27/Nov/2017:14:53:12 +0000] "GET /main HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:53:12 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:53:12 +0000] - [fn logger] - [[object Object]]
+[27/Nov/2017:14:53:12 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [27/Nov/2017:14:53:12 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:53:12 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/main" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:53:19 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:53:19 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:53:19 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:53:19 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:53:19 +0000] - [fn logger] - [[object Object]]
+[27/Nov/2017:14:53:19 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [27/Nov/2017:14:53:19 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:53:19 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:54:19 +0000] "GET / HTTP/1.1" 200 2890 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:54:19 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:54:19 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:54:19 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:54:19 +0000] - [fn logger] - [[object Object]]
+[27/Nov/2017:14:54:19 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [27/Nov/2017:14:54:19 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:54:19 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:57:49 +0000] "GET / HTTP/1.1" 200 2983 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:57:49 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:57:49 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:57:49 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:57:49 +0000] - [fn logger] - [[object Object]]
+[27/Nov/2017:14:57:49 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [27/Nov/2017:14:57:49 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:57:49 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:57:53 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:58:21 +0000] "GET / HTTP/1.1" 200 3006 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:58:21 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:58:21 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:58:21 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:58:21 +0000] - [fn logger] - [[object Object]]
+[27/Nov/2017:14:58:21 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [27/Nov/2017:14:58:21 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:58:21 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:58:45 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:58:45 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:58:45 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:58:45 +0000] "GET /javascripts/main.js HTTP/1.1" 200 9120 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:58:45 +0000] - [fn logger] - [[object Object]]
+[27/Nov/2017:14:58:45 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [27/Nov/2017:14:58:45 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:58:45 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:59:55 +0000] "GET / HTTP/1.1" 200 3054 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:59:55 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:59:55 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:59:55 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:14:59:55 +0000] - [fn logger] - [[object Object]]
+[27/Nov/2017:14:59:55 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [27/Nov/2017:14:59:55 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:14:59:55 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:00:22 +0000] "GET / HTTP/1.1" 200 3053 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:00:22 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:00:22 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:00:22 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:15:00:22 +0000] - [fn logger] - [[object Object]]
+[27/Nov/2017:15:00:22 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [27/Nov/2017:15:00:22 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:00:22 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:00:52 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:00:52 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:00:52 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:00:52 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3565 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:15:00:52 +0000] - [fn logger] - [[object Object]]
+[27/Nov/2017:15:00:52 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [27/Nov/2017:15:00:52 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:00:52 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:00:59 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:01:00 +0000] "GET /javascripts/carouselfigure.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:01:00 +0000] "GET /javascripts/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:01:00 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 3554 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+[27/Nov/2017:15:01:00 +0000] - [fn logger] - [[object Object]]
+[27/Nov/2017:15:01:00 +0000] - [fn logger] - [admin has no auth to access /favicon.ico]
+::1 - - [27/Nov/2017:15:01:00 +0000] "GET /favicon.ico HTTP/1.1" 302 23 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::1 - - [27/Nov/2017:15:01:00 +0000] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
