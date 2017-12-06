@@ -1,0 +1,4 @@
+# publication
+此项目拥有一个可配置的权限管理模块，有简单的新闻发布模块，并且可以自动SCAN ROUTE文件夹下的所有文件所配置的action.
+权限配置在CONFIG/groupAuthMap.js中
+新闻发布模块基于HTML生成的方式发布新闻页面
